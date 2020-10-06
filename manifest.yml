@@ -1,10 +1,10 @@
 ---
 applications:
-- name: Leejy-egovadmin
+- name: Leejy2-egovadmin
   memory: 512M
-  host: Leejy-egovadmin
+  host: Leejy2-egovadmin
   domain: paas-ta.org
   services:
-  - Leejy-egov-db
+  - Leejy2-egov-db
   instances: 1
   disk_quota: 512M
